@@ -5,7 +5,12 @@ h1,h2,h3,h4 {
 	font-family: serif;     
 	color: red;
 }
-
+em, i {
+	font-style: italic;
+}
+strong, b {
+	font-weight: bold;
+}
 .chapter {
 	page-break-before: always;
 }
