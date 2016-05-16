@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+	<head>
+		<meta content="0c159d12-f5fe-4323-8194-f5c652b89f5c" name="dtb:uid"/>
+		<meta content="2" name="dtb:depth"/>
+		<meta content="calibre (0.8.68)" name="dtb:generator"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text>Le Monde des Cartes</text>
+	</docTitle>
+	<navMap>
+		<navPoint id="a1" playOrder="0">
+			<navLabel>
+				<text>Introduction et présentation</text>
+			</navLabel>
+			<content src="theworldofmaps.html#step1"/>
+			<navPoint id="a1" playOrder="0">
+				<navLabel>
+					<text>Préface</text>
+				</navLabel>
+				<content src="build_website.html#step1"/>
+			</navPoint>
+			<navPoint id="a1" playOrder="0">
+				<navLabel>
+					<text>Avant-propos</text>
+				</navLabel>
+				<content src="build_website.html#step1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="a2" playOrder="1">
+			<navLabel>
+				<text>Résumé</text>
+			</navLabel>
+			<content src="build_website.html#step2"/>
+			<navPoint id="a1" playOrder="0">
+				<navLabel>
+					<text>Cartographie</text>
+				</navLabel>
+				<content src="build_website.html#step1"/>
+			</navPoint>
+			<navPoint id="a1" playOrder="0">
+				<navLabel>
+					<text>Usages et lecture des cartes</text>
+				</navLabel>
+				<content src="build_website.html#step1"/>
+			</navPoint>
+			<navPoint id="a1" playOrder="0">
+				<navLabel>
+					<text>L'information géographique</text>
+				</navLabel>
+				<content src="build_website.html#step1"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="a2" playOrder="1">
+			<navLabel>
+				<text>Faire des cartes</text>
+			</navLabel>
+			<content src="build_website.html#step2"/>
+			<navPoint id="a2" playOrder="1">
+				<navLabel>
+					<text>Conception cartographique</text>
+				</navLabel>
+				<content src="build_website.html#step2"/>
+			</navPoint>
+			<navPoint id="a2" playOrder="1">
+				<navLabel>
+					<text>Cartes thématiques</text>
+				</navLabel>
+				<content src="build_website.html#step2"/>
+			</navPoint>
+			<navPoint id="a2" playOrder="1">
+				<navLabel>
+					<text>Atlas</text>
+				</navLabel>
+				<content src="build_website.html#step2"/>
+			</navPoint>
+			<navPoint id="a2" playOrder="1">
+				<navLabel>
+					<text>Toponymes</text>
+				</navLabel>
+				<content src="build_website.html#step2"/>
+			</navPoint>
+			<navPoint id="a2" playOrder="1">
+				<navLabel>
+					<text>Projections cartographiques et systèmes de référence</text>
+				</navLabel>
+				<content src="build_website.html#step2"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="a2" playOrder="1">
+			<navLabel>
+				<text>Utiliser les cartes</text>
+			</navLabel>
+			<content src="build_website.html#step2"/>
+			<navPoint id="a2" playOrder="1">
+				<navLabel>
+					<text>Utilisation de la carte aux Nations Unies</text>
+				</navLabel>
+				<content src="build_website.html#step2"/>
+			</navPoint>
+			<navPoint id="a2" playOrder="1">
+				<navLabel>
+					<text>Trouver son chemin avec une carte marine</text>
+				</navLabel>
+				<content src="build_website.html#step2"/>
+			</navPoint>
+			<navPoint id="a2" playOrder="1">
+				<navLabel>
+					<text>Cartes pour l'orientation et la découverte d'objets cachés</text>
+				</navLabel>
+				<content src="build_website.html#step2"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="a2" playOrder="1">
+			<navLabel>
+				<text>Présenter les cartes</text>
+			</navLabel>
+			<content src="build_website.html#step2"/>
+			<navPoint id="a2" playOrder="1">
+				<navLabel>
+					<text>Impression des cartes</text>
+				</navLabel>
+				<content src="build_website.html#step2"/>
+			</navPoint>
+			<navPoint id="a2" playOrder="1">
+				<navLabel>
+					<text>Cartographie Web et mobile</text>
+				</navLabel>
+				<content src="build_website.html#step2"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="a2" playOrder="1">
+			<navLabel>
+				<text>Information géographique</text>
+			</navLabel>
+			<content src="build_website.html#step2"/>
+			<navPoint id="a2" playOrder="1">
+				<navLabel>
+					<text>Information géographique, accès et mise à disposition</text>
+				</navLabel>
+				<content src="build_website.html#step2"/>
+			</navPoint>
+			<navPoint id="a2" playOrder="1">
+				<navLabel>
+					<text>Information géographique collaborative</text>
+				</navLabel>
+				<content src="build_website.html#step2"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="a2" playOrder="1">
+			<navLabel>
+				<text>Education et autres informations</text>
+			</navLabel>
+			<content src="build_website.html#step2"/>
+			<navPoint id="a2" playOrder="1">
+				<navLabel>
+					<text>Enseigner la cartographie</text>
+				</navLabel>
+				<content src="build_website.html#step2"/>
+			</navPoint>
+			<navPoint id="a2" playOrder="1">
+				<navLabel>
+					<text>Plus d'informations</text>
+				</navLabel>
+				<content src="build_website.html#step2"/>
+			</navPoint>
+		</navPoint>
+	</navMap>
+</ncx> 
